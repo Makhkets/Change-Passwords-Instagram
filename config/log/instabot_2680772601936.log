@@ -1,0 +1,58 @@
+2021-11-18 11:58:44,202 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-11-18 11:58:44,202 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Fayli\AppData\Local\Programs\Python\Python39\lib\site-packages\instabot\bot\bot.py
+2021-11-18 11:58:55,676 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-11-18 11:58:55,933 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-11-18 11:58:56,190 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-11-18 11:58:56,510 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-11-18 11:58:56,743 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-11-18 11:58:58,996 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2021-11-18 11:58:58,996 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'aliev.mihack'!
+2021-11-18 11:58:58,997 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2021-11-18 11:58:59,349 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-11-18 11:58:59,714 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-11-18 11:59:00,049 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-918fb3d989925c5e&token_hash=&custom_device_id=android-918fb3d989925c5e&fetch_reason=token_expired returned response: <Response [200]>
+2021-11-18 11:59:00,378 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2021-11-18 11:59:00,765 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-11-18 11:59:01,809 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2021-11-18 11:59:02,128 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2021-11-18 11:59:03,453 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-11-18 11:59:05,546 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-11-18 11:59:05,902 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2021-11-18 11:59:06,848 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2021-11-18 11:59:07,215 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2021-11-18 11:59:08,400 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2021-11-18 11:59:08,741 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2021-11-18 11:59:09,066 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2021-11-18 11:59:09,448 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2021-11-18 11:59:09,786 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2021-11-18 11:59:10,120 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2021-11-18 11:59:10,445 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2021-11-18 11:59:11,411 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/48257564335/info/ returned response: <Response [200]>
+2021-11-18 11:59:12,030 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2021-11-18 11:59:12,950 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2021-11-18 11:59:13,384 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2021-11-18 11:59:13,835 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=c2776e2b-32e4-49b9-a366-241e4635929c&include_fixed_destinations=true returned response: <Response [200]>
+2021-11-18 11:59:14,199 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2021-11-18 11:59:14,644 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2021-11-18 11:59:14,646 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\Fayli\Desktop\PROGRAMMING PYTHON\Instagram bot/config/aliev.mihack.checkpoint
+2021-11-18 11:59:15,441 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/48257564335/info/ returned response: <Response [200]>
+2021-11-18 11:59:16,527 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/48257564335/following/?max_id=&ig_sig_key_version=4&rank_token=48257564335_bed9667d-23b0-4405-9d79-7a11d10b9408 returned response: <Response [200]>
+2021-11-18 11:59:16,540 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow 516 users.
+2021-11-18 11:59:17,165 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2809883773/info/ returned response: <Response [200]>
+2021-11-18 11:59:17,166 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 2809883773 with username zabare_video.
+2021-11-18 11:59:19,141 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/2809883773/ returned response: <Response [200]>
+2021-11-18 11:59:19,142 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 2809883773 with username zabare_video
+2021-11-18 11:59:19,700 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2132351688/info/ returned response: <Response [200]>
+2021-11-18 11:59:19,701 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 2132351688 with username chesnok95.
+2021-11-18 12:05:07,636 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/2132351688/ returned response: <Response [200]>
+2021-11-18 12:05:07,636 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 2132351688 with username chesnok95
+2021-11-18 12:05:08,351 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3320554260/info/ returned response: <Response [200]>
+2021-11-18 12:05:08,351 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 3320554260 with username tamaaev.
+2021-11-18 12:07:35,731 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/3320554260/ returned response: <Response [200]>
+2021-11-18 12:07:35,732 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 3320554260 with username tamaaev
+2021-11-18 12:07:36,302 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/666828552/info/ returned response: <Response [200]>
+2021-11-18 12:07:36,303 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 666828552 with username perfume_zaika96.
+2021-11-18 12:10:38,823 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/666828552/ returned response: <Response [200]>
+2021-11-18 12:10:38,823 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 666828552 with username perfume_zaika96
+2021-11-18 12:10:39,805 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/45636652680/info/ returned response: <Response [200]>
+2021-11-18 12:10:39,805 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 45636652680 with username sport_sfera05.
